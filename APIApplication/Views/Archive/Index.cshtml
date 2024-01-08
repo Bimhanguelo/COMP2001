@@ -1,0 +1,72 @@
+﻿@model IEnumerable<APIApplication.Models.Archive>
+
+@{
+    ViewData["Title"] = "Index";
+}
+@section DynamicMenuItems {
+    <nav class="navbar navbar-light d-flex justify-content-center" style="background-color: #e3f2fd; width: 100%;">
+
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="UserProfile" asp-action="Index"><b>UserProfile</b></a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Activity" asp-action="Index"><b>Activity</b></a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="List" asp-action="Index"><b>List</b></a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Delete" asp-action="Index"><b>Delete</b></a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Archive" asp-action="Index"><b>Archive</b></a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Logout"><b>Logout</b></a>
+        </li>
+    </nav>
+}
+<h1>Index</h1>
+
+<p>
+    <a class="btn btn-success" asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ArchiveId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ArchiveDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ArchiveUser)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ArchiveId)
+                </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ArchiveDate)
+            </td>
+            <td>
+                    @if (item.ArchiveUser != null)
+                    {
+                        @Html.DisplayFor(modelItem => item.ArchiveUser.UserName)
+                    }
+            </td>
+            <td>
+                    <a class="btn btn-primary" asp-action="Edit" asp-route-id="@item.ArchiveId">Edit</a> 
+                    <a class="btn btn-info" asp-action="Details" asp-route-id="@item.ArchiveId">Details</a> 
+                    <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.ArchiveId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

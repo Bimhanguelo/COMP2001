@@ -1,0 +1,35 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@section DynamicMenuItems {
+    <nav class="navbar navbar-light d-flex justify-content-center" style="background-color: #e3f2fd; width: 100%;">
+
+    <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="UserProfile" asp-action="Index"><b>UserProfile</b></a>
+    </li>
+    <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Activity" asp-action="Index"><b>Activity</b></a>
+    </li>
+    <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="List" asp-action="Index"><b>List</b></a>
+    </li>
+    <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Delete" asp-action="Index"><b>Delete</b></a>
+    </li>
+    <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Archive" asp-action="Index"><b>Archive</b></a>
+    </li>
+    <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Logout"><b>Logout</b></a>
+    </li>
+    </nav>
+}
+<div class="container">
+    <div class="text-center">
+        <h1 class="display-4">Welcome</h1>
+        <h2>User ID: <span class="badge bg-primary">@ViewBag.UserIdSession</span></h2>
+        <h2>UserName: <span class="badge bg-secondary">@ViewBag.UserNameSession</span></h2>
+        <h2>Email Address: <span class="badge bg-success">@ViewBag.EmailSession</span></h2>
+        <h2>Password: <span class="badge bg-danger">@ViewBag.PasswordSession</span></h2>
+    </div>
+</div>
