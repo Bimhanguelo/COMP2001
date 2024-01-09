@@ -9,143 +9,143 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = APIApplication
 build_property.RootNamespace = APIApplication
-build_property.ProjectDir = C:\Users\besti\OneDrive\Documents\Delivery\Delivery\APIApplication\APIApplication\
+build_property.ProjectDir = C:\Users\besti\OneDrive\Documents\COMP2001\CLONED\COMP2001\APIApplication\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\besti\OneDrive\Documents\Delivery\Delivery\APIApplication\APIApplication
+build_property.MSBuildProjectDirectory = C:\Users\besti\OneDrive\Documents\COMP2001\CLONED\COMP2001\APIApplication
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/besti/OneDrive/Documents/Delivery/Delivery/APIApplication/APIApplication/Views/Activity/Create.cshtml]
+[C:/Users/besti/OneDrive/Documents/COMP2001/CLONED/COMP2001/APIApplication/Views/Activity/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZpdHlcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/besti/OneDrive/Documents/Delivery/Delivery/APIApplication/APIApplication/Views/Activity/Delete.cshtml]
+[C:/Users/besti/OneDrive/Documents/COMP2001/CLONED/COMP2001/APIApplication/Views/Activity/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZpdHlcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/besti/OneDrive/Documents/Delivery/Delivery/APIApplication/APIApplication/Views/Activity/Details.cshtml]
+[C:/Users/besti/OneDrive/Documents/COMP2001/CLONED/COMP2001/APIApplication/Views/Activity/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZpdHlcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/besti/OneDrive/Documents/Delivery/Delivery/APIApplication/APIApplication/Views/Activity/Edit.cshtml]
+[C:/Users/besti/OneDrive/Documents/COMP2001/CLONED/COMP2001/APIApplication/Views/Activity/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZpdHlcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/besti/OneDrive/Documents/Delivery/Delivery/APIApplication/APIApplication/Views/Activity/Index.cshtml]
+[C:/Users/besti/OneDrive/Documents/COMP2001/CLONED/COMP2001/APIApplication/Views/Activity/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZpdHlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/besti/OneDrive/Documents/Delivery/Delivery/APIApplication/APIApplication/Views/Archive/Create.cshtml]
+[C:/Users/besti/OneDrive/Documents/COMP2001/CLONED/COMP2001/APIApplication/Views/Archive/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJjaGl2ZVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/besti/OneDrive/Documents/Delivery/Delivery/APIApplication/APIApplication/Views/Archive/Delete.cshtml]
+[C:/Users/besti/OneDrive/Documents/COMP2001/CLONED/COMP2001/APIApplication/Views/Archive/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJjaGl2ZVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/besti/OneDrive/Documents/Delivery/Delivery/APIApplication/APIApplication/Views/Archive/Details.cshtml]
+[C:/Users/besti/OneDrive/Documents/COMP2001/CLONED/COMP2001/APIApplication/Views/Archive/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJjaGl2ZVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/besti/OneDrive/Documents/Delivery/Delivery/APIApplication/APIApplication/Views/Archive/Edit.cshtml]
+[C:/Users/besti/OneDrive/Documents/COMP2001/CLONED/COMP2001/APIApplication/Views/Archive/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJjaGl2ZVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/besti/OneDrive/Documents/Delivery/Delivery/APIApplication/APIApplication/Views/Archive/Index.cshtml]
+[C:/Users/besti/OneDrive/Documents/COMP2001/CLONED/COMP2001/APIApplication/Views/Archive/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJjaGl2ZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/besti/OneDrive/Documents/Delivery/Delivery/APIApplication/APIApplication/Views/Delete/Create.cshtml]
+[C:/Users/besti/OneDrive/Documents/COMP2001/CLONED/COMP2001/APIApplication/Views/Delete/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVsZXRlXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/besti/OneDrive/Documents/Delivery/Delivery/APIApplication/APIApplication/Views/Delete/Delete.cshtml]
+[C:/Users/besti/OneDrive/Documents/COMP2001/CLONED/COMP2001/APIApplication/Views/Delete/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVsZXRlXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/besti/OneDrive/Documents/Delivery/Delivery/APIApplication/APIApplication/Views/Delete/Details.cshtml]
+[C:/Users/besti/OneDrive/Documents/COMP2001/CLONED/COMP2001/APIApplication/Views/Delete/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVsZXRlXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/besti/OneDrive/Documents/Delivery/Delivery/APIApplication/APIApplication/Views/Delete/Edit.cshtml]
+[C:/Users/besti/OneDrive/Documents/COMP2001/CLONED/COMP2001/APIApplication/Views/Delete/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVsZXRlXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/besti/OneDrive/Documents/Delivery/Delivery/APIApplication/APIApplication/Views/Delete/Index.cshtml]
+[C:/Users/besti/OneDrive/Documents/COMP2001/CLONED/COMP2001/APIApplication/Views/Delete/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVsZXRlXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/besti/OneDrive/Documents/Delivery/Delivery/APIApplication/APIApplication/Views/Home/Index.cshtml]
+[C:/Users/besti/OneDrive/Documents/COMP2001/CLONED/COMP2001/APIApplication/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/besti/OneDrive/Documents/Delivery/Delivery/APIApplication/APIApplication/Views/Home/Login.cshtml]
+[C:/Users/besti/OneDrive/Documents/COMP2001/CLONED/COMP2001/APIApplication/Views/Home/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/besti/OneDrive/Documents/Delivery/Delivery/APIApplication/APIApplication/Views/Home/Privacy.cshtml]
+[C:/Users/besti/OneDrive/Documents/COMP2001/CLONED/COMP2001/APIApplication/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/besti/OneDrive/Documents/Delivery/Delivery/APIApplication/APIApplication/Views/List/Create.cshtml]
+[C:/Users/besti/OneDrive/Documents/COMP2001/CLONED/COMP2001/APIApplication/Views/List/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlzdFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/besti/OneDrive/Documents/Delivery/Delivery/APIApplication/APIApplication/Views/List/Delete.cshtml]
+[C:/Users/besti/OneDrive/Documents/COMP2001/CLONED/COMP2001/APIApplication/Views/List/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlzdFxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/besti/OneDrive/Documents/Delivery/Delivery/APIApplication/APIApplication/Views/List/Details.cshtml]
+[C:/Users/besti/OneDrive/Documents/COMP2001/CLONED/COMP2001/APIApplication/Views/List/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlzdFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/besti/OneDrive/Documents/Delivery/Delivery/APIApplication/APIApplication/Views/List/Edit.cshtml]
+[C:/Users/besti/OneDrive/Documents/COMP2001/CLONED/COMP2001/APIApplication/Views/List/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlzdFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/besti/OneDrive/Documents/Delivery/Delivery/APIApplication/APIApplication/Views/List/Index.cshtml]
+[C:/Users/besti/OneDrive/Documents/COMP2001/CLONED/COMP2001/APIApplication/Views/List/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlzdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/besti/OneDrive/Documents/Delivery/Delivery/APIApplication/APIApplication/Views/Shared/Error.cshtml]
+[C:/Users/besti/OneDrive/Documents/COMP2001/CLONED/COMP2001/APIApplication/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/besti/OneDrive/Documents/Delivery/Delivery/APIApplication/APIApplication/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/besti/OneDrive/Documents/COMP2001/CLONED/COMP2001/APIApplication/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/besti/OneDrive/Documents/Delivery/Delivery/APIApplication/APIApplication/Views/UserProfile/Create.cshtml]
+[C:/Users/besti/OneDrive/Documents/COMP2001/CLONED/COMP2001/APIApplication/Views/UserProfile/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclByb2ZpbGVcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/besti/OneDrive/Documents/Delivery/Delivery/APIApplication/APIApplication/Views/UserProfile/Delete.cshtml]
+[C:/Users/besti/OneDrive/Documents/COMP2001/CLONED/COMP2001/APIApplication/Views/UserProfile/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclByb2ZpbGVcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/besti/OneDrive/Documents/Delivery/Delivery/APIApplication/APIApplication/Views/UserProfile/Details.cshtml]
+[C:/Users/besti/OneDrive/Documents/COMP2001/CLONED/COMP2001/APIApplication/Views/UserProfile/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclByb2ZpbGVcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/besti/OneDrive/Documents/Delivery/Delivery/APIApplication/APIApplication/Views/UserProfile/Edit.cshtml]
+[C:/Users/besti/OneDrive/Documents/COMP2001/CLONED/COMP2001/APIApplication/Views/UserProfile/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclByb2ZpbGVcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/besti/OneDrive/Documents/Delivery/Delivery/APIApplication/APIApplication/Views/UserProfile/Index.cshtml]
+[C:/Users/besti/OneDrive/Documents/COMP2001/CLONED/COMP2001/APIApplication/Views/UserProfile/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclByb2ZpbGVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/besti/OneDrive/Documents/Delivery/Delivery/APIApplication/APIApplication/Views/_ViewImports.cshtml]
+[C:/Users/besti/OneDrive/Documents/COMP2001/CLONED/COMP2001/APIApplication/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/besti/OneDrive/Documents/Delivery/Delivery/APIApplication/APIApplication/Views/_ViewStart.cshtml]
+[C:/Users/besti/OneDrive/Documents/COMP2001/CLONED/COMP2001/APIApplication/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/besti/OneDrive/Documents/Delivery/Delivery/APIApplication/APIApplication/Views/Shared/_Layout.cshtml]
+[C:/Users/besti/OneDrive/Documents/COMP2001/CLONED/COMP2001/APIApplication/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-dv9zffzikz
